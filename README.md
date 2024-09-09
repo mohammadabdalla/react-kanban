@@ -1,0 +1,1 @@
+Kanban task manager built with react18, redux-toolkit.
